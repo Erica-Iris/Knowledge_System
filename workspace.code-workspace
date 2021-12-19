@@ -1,0 +1,43 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "markdown-preview-enhanced.previewTheme": "one-dark.css",
+    "markdown-preview-enhanced.scrollSync": true,
+    "github.allowUnsafeSSL": true,
+    "foam.edit.linkReferenceDefinitions": "off",
+    "foam.openDailyNote.directory": "docs/Daily_Notes", //存放daily notes 的地方
+    "foam.openDailyNote.filenameFormat": "'DN'-yyyy-mm-dd", //文件名的格式
+    "foam.openDailyNote.fileExtension": "md", //文件的后缀
+    "foam.openDailyNote.titleFormat": " yyyy-mm-dd",
+    "foam.openDailyNote.onStartup": true,
+    "foam.graph.style": {
+      "background": "#202020",
+      "fontSize": 13,
+      "lineColor": "#277da1",
+      "lineWidth": 0.8,
+      "particleWidth": 1.0,
+      "highlightedForeground": "#f9c74f",
+      "node": {
+        "note": "#277da1",
+        "placeholder": "#111111",
+        "feature": "red"
+      }
+    },
+    "foam.graph.node.note.fontSize": 13,
+    "markdown-preview-enhanced.liveUpdate": true,
+    "files.defaultLanguage": "markdown",
+    "pasteImage.path": "${projectRoot}/Images",
+    "pasteImage.showFilePathConfirmInputBox": true,
+    "prettier.singleQuote": false,
+    "markdownlint.config": {
+      "default": true,
+      "MD033": {
+        "allowed_elements": ["font", "li", "table", "tr", "td", "a"]
+      }
+    }
+  }
+}
