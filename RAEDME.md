@@ -13,7 +13,6 @@
     - [形](.\docs\note_book\心理学\main.md)
       - [拓扑](.\docs\note_book\心理学\main.md)
   - [计算机](.\docs\note_book\心理学\main.md)
-
     - [Hardware](.\docs\note_book\心理学\main.md)
       - [计算机组成](.\docs\note_book\心理学\main.md)
     - [Software](.\docs\note_book\心理学\main.md)
